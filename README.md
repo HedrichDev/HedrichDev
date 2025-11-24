@@ -1,5 +1,5 @@
 <div align="center" style="transition: transform 0.2s; display: inline-block;">
-  <img height="150" src="https://avatars.githubusercontent.com/u/v=4" 
+  <img height="150" src="https://avatars.githubusercontent.com/u/189280498?v=4" 
        style="border-radius: 15px; transition: transform 0.2s;" 
        onmouseover="this.style.transform='scale(1.1)'" 
        onmouseout="this.style.transform='scale(1)'"/>
