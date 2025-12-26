@@ -1,5 +1,5 @@
 <div align="center" style="transition: transform 0.2s; display: inline-block;">
-  <img height="250" src="https://cdn.discordapp.com/attachments/1416487311587147787/1446304736465915934/Copilot_20251113_134613.png?ex=69337fc0&is=69322e40&hm=28f9e323b3f6c5456ddca218a2026fee2e1ab5c9c63f27fb803f0ad6df4425bc" 
+  <img height="250" src="https://media.discordapp.net/attachments/1416487311587147787/1446304736465915934/Copilot_20251113_134613.png?ex=694fd800&is=694e8680&hm=0fa2df72400c6a0c3edb1512ca8b71c31ccb45ff7502db4b0743979016d2bd91" 
        style="border-radius: 15px; transition: transform 0.2s;" 
        onmouseover="this.style.transform='scale(1.1)'" 
        onmouseout="this.style.transform='scale(1)'"/>
@@ -7,6 +7,14 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=glocf.glocf&"  />
 </div>
+
+
+</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Experienced%20UI%2FUX%20Designer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 
 <h1 align="center">Hello, World! 🌍</h1>
 
@@ -16,7 +24,7 @@
 
 ###
 
-<p align="left">Hello, programmer specialized in backend development and malware analysis. With solid experience in creating efficient and secure solutions, I am passionate about exploring new technologies and trends in the programming field. I am always looking for opportunities to grow professionally and contribute to innovative projects.</p>
+<p align="left">Hello, programmer specialized in Full Stack development and malware analysis. With solid experience in creating efficient and secure solutions, I am passionate about exploring new technologies and trends in the programming field. I am always looking for opportunities to grow professionally and contribute to innovative projects.</p>
 
 ###
   
